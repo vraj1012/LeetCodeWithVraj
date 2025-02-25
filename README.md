@@ -1,5 +1,5 @@
-# LeetcodeWithVraj
+# LeetCodeWithVraj
 
-### Welcome to LeetcodeWithVraj! This repository contains my journey through LeetCode problems.
+### Welcome to LeetCodeWithVraj! This repository contains my journey through LeetCode problems.
 ---
 ### Thank You
